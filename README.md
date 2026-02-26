@@ -3,6 +3,13 @@
 **Engineering Enterprise GIS with AI**  
 Presentation by Chris Lyons | 
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
 This is a web-based presentation built with [Spectacle](https://commerce.nearform.com/open-source/spectacle/) (React-based presentation library) and deployed to GitHub Pages.
 
 ## 🚀 Quick Start
@@ -196,9 +203,7 @@ For more advanced customization options, see the [Spectacle documentation](https
 - **GitHub Pages**: Hosting
 
 ## 📄 License
-
-MIT License - feel free to use this as a template for your own presentations!
-
+![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ## 🤝 Credits
 
 Presentation content by Chris Lyons  
