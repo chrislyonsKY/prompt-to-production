@@ -208,4 +208,3 @@ For more advanced customization options, see the [Spectacle documentation](https
 
 Presentation content by Chris Lyons  
 Built with Spectacle by Formidable Labs
-# prompt-to-production
