@@ -1,7 +1,7 @@
 # From Prompt to Production
 
 **Engineering Enterprise GIS with AI**  
-Presentation by Chris Lyons | KY GIS Conference 2026
+Presentation by Chris Lyons | 
 
 This is a web-based presentation built with [Spectacle](https://commerce.nearform.com/open-source/spectacle/) (React-based presentation library) and deployed to GitHub Pages.
 
